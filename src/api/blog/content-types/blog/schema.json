@@ -24,19 +24,6 @@
       },
       "type": "string"
     },
-    "Image": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
-      "allowedTypes": [
-        "images"
-      ],
-      "pluginOptions": {
-        "i18n": {
-          "localized": true
-        }
-      }
-    },
     "Content": {
       "pluginOptions": {
         "i18n": {
