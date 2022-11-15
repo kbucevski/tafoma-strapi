@@ -1,0 +1,120 @@
+{
+  "kind": "singleType",
+  "collectionName": "pricings",
+  "info": {
+    "singularName": "pricing",
+    "pluralName": "pricings",
+    "displayName": "Pricing"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "monthly": {
+      "type": "string"
+    },
+    "annualy": {
+      "type": "string"
+    },
+    "starter": {
+      "type": "string"
+    },
+    "standard": {
+      "type": "string"
+    },
+    "business": {
+      "type": "string"
+    },
+    "money_sign": {
+      "type": "string"
+    },
+    "per_month": {
+      "type": "string"
+    },
+    "billed_annually": {
+      "type": "string"
+    },
+    "billed_monthly": {
+      "type": "string"
+    },
+    "up_to_5": {
+      "type": "string"
+    },
+    "mb_storage_per_user": {
+      "type": "string"
+    },
+    "task_per_user": {
+      "type": "string"
+    },
+    "video_meetings": {
+      "type": "string"
+    },
+    "office_suite": {
+      "type": "string"
+    },
+    "team_reports": {
+      "type": "string"
+    },
+    "unlimited": {
+      "type": "string"
+    },
+    "plan_btn": {
+      "type": "string"
+    },
+    "banner_name": {
+      "type": "string"
+    },
+    "banner_desc": {
+      "type": "string"
+    },
+    "banner_btn": {
+      "type": "string"
+    },
+    "feature_per_user": {
+      "type": "string"
+    },
+    "meetings_per_week": {
+      "type": "string"
+    },
+    "users": {
+      "type": "string"
+    },
+    "monthly_tasks": {
+      "type": "string"
+    },
+    "storage": {
+      "type": "string"
+    },
+    "max_file": {
+      "type": "string"
+    },
+    "tafoma_talk": {
+      "type": "string"
+    },
+    "gantt_chart": {
+      "type": "string"
+    },
+    "create_teams": {
+      "type": "string"
+    },
+    "reports": {
+      "type": "string"
+    },
+    "webinar": {
+      "type": "string"
+    },
+    "features_coming": {
+      "type": "string"
+    },
+    "get_email": {
+      "type": "string"
+    },
+    "add_email": {
+      "type": "string"
+    }
+  }
+}
