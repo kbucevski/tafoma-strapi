@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_tafoma_team_members",
+  "info": {
+    "displayName": "team_member",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "position": {
+      "type": "string"
+    }
+  }
+}

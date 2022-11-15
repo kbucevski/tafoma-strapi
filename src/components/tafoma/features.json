@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_tafoma_features",
+  "info": {
+    "displayName": "features",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "text"
+    }
+  }
+}

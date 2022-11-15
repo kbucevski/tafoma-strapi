@@ -1,0 +1,33 @@
+{
+  "kind": "singleType",
+  "collectionName": "faqs",
+  "info": {
+    "singularName": "faq",
+    "pluralName": "faqs",
+    "displayName": "FAQ"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "questions": {
+      "displayName": "questions",
+      "type": "component",
+      "repeatable": true,
+      "component": "tafoma.questions"
+    },
+    "banner_title": {
+      "type": "string"
+    },
+    "banner_desc": {
+      "type": "string"
+    },
+    "banner_btn": {
+      "type": "string"
+    }
+  }
+}

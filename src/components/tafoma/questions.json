@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_tafoma_questions",
+  "info": {
+    "displayName": "questions",
+    "icon": "arrow-circle-left"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}

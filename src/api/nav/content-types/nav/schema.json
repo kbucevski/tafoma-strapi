@@ -1,0 +1,39 @@
+{
+  "kind": "singleType",
+  "collectionName": "navs",
+  "info": {
+    "singularName": "nav",
+    "pluralName": "navs",
+    "displayName": "Nav"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "about": {
+      "type": "string"
+    },
+    "features": {
+      "type": "string"
+    },
+    "pricing": {
+      "type": "string"
+    },
+    "blog": {
+      "type": "string"
+    },
+    "industries": {
+      "type": "string"
+    },
+    "faq": {
+      "type": "string"
+    },
+    "contact": {
+      "type": "string"
+    },
+    "sign_in": {
+      "type": "string"
+    }
+  }
+}
