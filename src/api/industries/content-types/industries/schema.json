@@ -4,7 +4,7 @@
   "info": {
     "singularName": "industries",
     "pluralName": "industriess",
-    "displayName": "Industries",
+    "displayName": "Industry",
     "description": ""
   },
   "options": {
@@ -40,6 +40,18 @@
         }
       },
       "unique": true
+    },
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
     }
   }
 }
